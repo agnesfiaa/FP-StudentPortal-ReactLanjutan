@@ -318,6 +318,17 @@
       "faculty": "Fakultas Ekonomi",
       "programStudy": "Ekonomi",
       "id": 29
+    },
+    {
+      "fullname": "Agnesfia Anggraeni",
+      "address": "asdsadasdasd",
+      "birthDate": "2022-02-04",
+      "gender": "Female",
+      "phoneNumber": "0581615155131",
+      "faculty": "Fakultas Teknologi Informasi dan Sains",
+      "programStudy": "Informatika",
+      "profilePicture": "asdsadasd",
+      "id": 30
     }
   ]
 }

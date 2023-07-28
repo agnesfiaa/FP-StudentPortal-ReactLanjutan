@@ -3,7 +3,6 @@ import {
     Table,
     Thead,
     Tbody,
-    Tfoot,
     Tr,
     Th,
     Td,
@@ -46,7 +45,7 @@ import {
               <Tr key={student.id} className="student-data-row">
                 <Td>{index + 1}</Td>
                 <Td>
-                  <Link to={`${student.id}`}>{student.fullname}</Link>
+                  <Link href={`/student/${student.id}`}>{student.fullname}</Link>
                 </Td>
                 <Td>{student.faculty}</Td>
                 <Td>{student.programStudy}</Td>
